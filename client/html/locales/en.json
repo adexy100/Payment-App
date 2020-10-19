@@ -1,9 +1,0 @@
-{
-  "title": "Stripe Checkout Sample",
-  "headline": "Hello",
-  "subline": "Buy me a coffee",
-  "sr-legal-text": "Number of coffee (max 10)",
-  "button": {
-    "submit": "Buy for {{total}}"
-  }
-}
